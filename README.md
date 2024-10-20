@@ -5,7 +5,7 @@
 
 template<typename... Args>
 void testFunction(Args... args) {
-    // Fonction vide pour tester le nombre d'arguments
+    
 }
 
 int main() {
