@@ -4,8 +4,7 @@
 #include <vector>
 
 template<typename... Args>
-void testFunction(Args... args) {
-    
+void testFunction(Args... args) {    
 }
 
 int main() {
