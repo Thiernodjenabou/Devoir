@@ -6,4 +6,4 @@ des raisons de lisibilité et de maintenabilité du code.
 Dans certains cas, on peut utiliser des structures comme des listes 
 ou des dictionnaires pour regrouper plusieurs valeurs en un seul paramètre.
 Quand j'ai executé sur un compilqteur en ligne j'ai obtenu 705 parametres sans eerreurs 
-et sur mon pc j'ai eu plus de 1 000 000 de parametres
+et sur mon pc j'ai eu plus de 1 000 000 de parametres 
